@@ -20,7 +20,7 @@ namespace SmartClassroom.Modules
         public bool IsInitialized { get; private set; }
 
         /// <summary>
-        /// Initialize the reader with a CSV file
+        ///Initialize the reader with a CSV file
         /// </summary>
         public void Initialize(string filePath)
         {
