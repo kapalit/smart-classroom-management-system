@@ -1,4 +1,5 @@
-﻿using SmartClassroom.Core.Models;
+﻿//IModule interface to standardize module lifecycle
+using SmartClassroom.Core.Models;
 
 namespace SmartClassroom.Core.Interfaces
 {
