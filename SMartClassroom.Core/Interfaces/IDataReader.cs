@@ -1,4 +1,5 @@
-﻿using SmartClassroom.Core.Models;
+﻿//IDataReader interface for sensor data input
+using SmartClassroom.Core.Models;
 
 namespace SmartClassroom.Core.Interfaces
 {
