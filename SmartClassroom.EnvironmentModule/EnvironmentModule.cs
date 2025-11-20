@@ -43,7 +43,7 @@ namespace SmartClassroom.Modules
         private Dictionary<string, DateTime> _lastAlarmTime;
         private const int ALARM_DEBOUNCE_SECONDS = 30;
 
-        // Configuration
+        //Configuration
         private const int UPDATE_INTERVAL_MS = 2000; // 2 seconds
         private const double MIN_SETPOINT = 16.0;
         private const double MAX_SETPOINT = 30.0;
