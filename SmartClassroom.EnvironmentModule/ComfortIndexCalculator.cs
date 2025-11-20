@@ -16,7 +16,7 @@ namespace SmartClassroom.Modules
         private const double OPTIMAL_CO2_MAX = 1000.0;
 
         /// <summary>
-        /// Calculate comfort index (0-100 scale)
+        ///Calculate comfort index (0-100 scale)
         /// </summary>
         public double Calculate(double temperature, double humidity, double co2)
         {
