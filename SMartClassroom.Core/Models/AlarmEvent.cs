@@ -1,4 +1,5 @@
-﻿namespace SmartClassroom.Core.Models
+﻿//AlarmEvent model for system warning and critical alerts
+namespace SmartClassroom.Core.Models
 {
     public class AlarmEvent
     {
