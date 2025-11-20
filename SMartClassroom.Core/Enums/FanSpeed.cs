@@ -1,4 +1,5 @@
-﻿namespace SmartClassroom.Core.Enums
+﻿//FanSpeed enum for HVAC fan control
+namespace SmartClassroom.Core.Enums
 {
     public enum FanSpeed
     {

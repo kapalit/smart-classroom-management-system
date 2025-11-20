@@ -352,10 +352,10 @@ namespace SmartClassroom.Tests
         [Test]
         public void Calculate_HighCO2_ReturnsLowerScore()
         {
-            // Act
+            //Act
             double score = _calculator.Calculate(22.0, 45.0, 1600.0);
 
-            // Assert
+            //Assert
             Assert.That(score, Is.LessThan(80.0));
         }
 
@@ -365,7 +365,7 @@ namespace SmartClassroom.Tests
             // Act
             double score = _calculator.Calculate(30.0, 80.0, 2000.0);
 
-            // Assert
+            //Assert
             Assert.That(score, Is.LessThan(30.0));
         }
     }

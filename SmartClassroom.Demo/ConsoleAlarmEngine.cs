@@ -7,7 +7,7 @@ using SmartClassroom.Core.Models;
 namespace SmartClassroom.Demo
 {
     /// <summary>
-    /// Console implementation of IAlarmEngine for demo purposes
+    ///Console implementation of IAlarmEngine for demo purposes
     /// </summary>
     public class ConsoleAlarmEngine : IAlarmEngine
     {

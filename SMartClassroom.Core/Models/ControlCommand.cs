@@ -1,4 +1,5 @@
-﻿namespace SmartClassroom.Core.Models
+﻿// ControlCommand model for HVAC and device control
+namespace SmartClassroom.Core.Models
 {
     public class ControlCommand
     {

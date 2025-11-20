@@ -1,4 +1,5 @@
-﻿namespace SmartClassroom.Core.Models
+﻿//DeviceState model representing device operational state
+namespace SmartClassroom.Core.Models
 {
     public class DeviceState
     {

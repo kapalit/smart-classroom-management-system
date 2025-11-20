@@ -6,7 +6,7 @@ using SmartClassroom.Core.Models;
 namespace SmartClassroom.Demo
 {
     /// <summary>
-    /// Console implementation of ITelemetryBus for demo purposes
+    ///Console implementation of ITelemetryBus for demo purposes
     /// </summary>
     public class ConsoleTelemetryBus : ITelemetryBus
     {

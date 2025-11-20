@@ -1,4 +1,5 @@
-﻿namespace SmartClassroom.Core.Models
+﻿//SensorReading model for environmental data
+namespace SmartClassroom.Core.Models
 {
     public class SensorReading
     {

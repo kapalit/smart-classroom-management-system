@@ -1,4 +1,5 @@
-﻿namespace SmartClassroom.Core.Models
+﻿//TelemetryPoint model for telemetry publishing
+namespace SmartClassroom.Core.Models
 {
     public class TelemetryPoint
     {

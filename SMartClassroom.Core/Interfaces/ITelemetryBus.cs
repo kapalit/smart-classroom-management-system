@@ -1,4 +1,5 @@
-﻿using SmartClassroom.Core.Models;
+﻿//ITelemetryBus interface for telemetry publishing
+using SmartClassroom.Core.Models;
 
 namespace SmartClassroom.Core.Interfaces
 {
