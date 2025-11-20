@@ -1,4 +1,6 @@
 <Solution>
+  <Project Path="../Sprint 2/AlarmSystem.Tests/AlarmSystem.Tests.csproj" Id="e0de6da1-33da-4c65-ad6e-1a4a04c56658" />
+  <Project Path="../Sprint 2/AlarmSystem/AlarmSystem.csproj" Id="602ddd11-b6dd-4cf5-a27d-1fbecf5896ce" />
   <Project Path="SMartClassroom.Core/SmartClassroom.Core.csproj" />
   <Project Path="SmartClassroom.Demo/SmartClassroom.Demo.csproj" />
   <Project Path="SmartClassroom.EnvironmentModule/SmartClassroom.EnvironmentModule.csproj" />
