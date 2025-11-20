@@ -1,4 +1,5 @@
-﻿using SmartClassroom.Core.Models;
+﻿//IAlarmEngine interface for alarm handling
+using SmartClassroom.Core.Models;
 
 namespace SmartClassroom.Core.Interfaces
 {
